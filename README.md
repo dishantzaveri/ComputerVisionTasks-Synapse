@@ -1,2 +1,2 @@
 # ComputerVisionTasks-Synapse
-Thee are my CV Tasks for DJS Synapse
+These are my CV Tasks for DJS Synapse
